@@ -1,0 +1,19 @@
+.sectionContainer {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+    text-align: center;
+
+}
+
+.sectionTitle {
+    color: #3A3238;
+    margin-bottom: 10px;
+}
+
+.sectionContent {
+    background-color: #A0647E;
+    border: 1px solid #543C47;
+    padding: 20px;
+    border-radius: 12px;
+}

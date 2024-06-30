@@ -1,0 +1,11 @@
+.notificationContainer {
+    background-color: #543C47;
+   
+    color: #E8B4BC;
+    
+    padding: 20px;
+    border: 1px solid #543C47;
+   
+    border-radius: 5px;
+    margin-bottom: 20px;
+}
